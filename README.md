@@ -59,6 +59,6 @@ test video:
 
 For any questions, please reach out via GitHub or email:
 
-- GitHub: [AustinGrech](https://github.com/AustinGrech)
+- GitHub: [BrunoRosarini](https://github.com/RdySetShine)
 
 - Email: (rosarinibruno@gmail.com)
