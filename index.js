@@ -39,7 +39,7 @@ const questions = [{
 {
     type: 'input',
     name: 'contributor',
-    message: 'Please List any Contribute?'
+    message: 'Please List any Contributors?'
 },{
     type: 'input',
     name: 'test',
