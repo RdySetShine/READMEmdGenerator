@@ -53,7 +53,7 @@ Luis Sanchez Tutor
 
 ## Tests
 
-test video: https://drive.google.com/file/d/1JwSJp8F1DmYvBzHq4E9fskIi38PjIWoU/view?usp=sharing
+test video: https://drive.google.com/file/d/1JwSJp8F1DmYvBzHq4E9fskIi38PjIWoU/view
 
 ## Questions
 
